@@ -8,8 +8,8 @@ while begin <= end:
 def mycounter():
     counter = 0
     while counter < 5:
-        print("These are the numbers in the range given: ")
-        print(counter)
+        print("These are the numbers in the range given: " + str(counter))
+        #print(counter)
         counter += 1
     else:
         print("Numbers are our of range")
