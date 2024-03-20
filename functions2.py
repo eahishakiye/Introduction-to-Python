@@ -11,7 +11,6 @@ condition()
 
 # The code below works like the function above
 # It is extracted from the function above
-
 number = 10
 if number > 0:
     print("Number is positive")
