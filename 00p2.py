@@ -17,7 +17,7 @@ class Animal:
         
       
 # Creating objects of the class animal
-#The feautes of the class are identified by the dot operator or access specifier
+#The features of the class are identified by the dot operator or access specifier
 cat = Animal()
 cat.color = "black"
 cat.size = "medium"
