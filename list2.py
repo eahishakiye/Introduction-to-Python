@@ -13,7 +13,6 @@ else:
     
 
 myrange = input("Please enter your range: ")
-
 for num in range(1, int(myrange)):
     if num > 10:
         print("Out of range")
